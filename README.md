@@ -1,16 +1,13 @@
-### Hi there 👋
+<!-- Welcome -->
+### Hey buddy 😃
 
-<!--
-**liebki/liebki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+↳ I'm Kim
+</br>↳ Currently on my way to become a software developer
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Things I use and work with 🔨 
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=1E90FF)
+![](https://img.shields.io/badge/IDE-Eclipse-informational?style=flat&logo=Eclipse&logoColor=white&color=1E90FF)
+![](https://img.shields.io/badge/IDE-Visual%20Studio-informational?style=flat&logo=Visual-Studio&logoColor=white&color=1E90FF)
+![](https://img.shields.io/badge/Language-Java-informational?style=flat&logo=Java&logoColor=white&color=1E90FF)
+![](https://img.shields.io/badge/Language-C_Sharp-informational?style=flat&logo=C-Sharp&logoColor=white&color=1E90FF)
+![](https://img.shields.io/badge/Tools-Maven-informational?style=flat&logo=circle&logoColor=white&color=1E90FF)
