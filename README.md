@@ -4,6 +4,10 @@
 ↳ I'm Kim
 </br>↳ Currently on my way to become a software developer
 
+![](https://github-readme-stats.vercel.app/api?username=liebki&show_icons=true&hide_title=false&theme=highcontrast)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=liebki&langs_count=8&theme=highcontrast)
+
 ## Things I use 🔨 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=1E90FF)
 ![](https://img.shields.io/badge/IDE-Eclipse-informational?style=flat&logo=Eclipse&logoColor=white&color=1E90FF)
