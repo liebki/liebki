@@ -2,10 +2,8 @@
   <img src="https://github.com/liebki/liebki/assets/71221724/c4013488-8a2a-46ba-8ffb-cd7758d87f1d">
 </p>
 
-## <a href="https://shortmo.de/09bd" target="_blank" rel="noreferrer">Hello 👋🏻, I'm Kim</a>
+## <a href="https://shortmo.de" target="_blank" rel="noreferrer">Hello 👋🏻, I'm Kim</a>
 
-![liebki's Stats](https://github-readme-stats.vercel.app/api?username=liebki&theme=dracula&show_icons=true&hide_border=false&count_private=true)
-</br>
 ![liebki's Streak](https://github-readme-streak-stats.herokuapp.com/?user=liebki&theme=dracula&hide_border=false)
 </br>
 ![liebki's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liebki&theme=dracula&show_icons=true&hide_border=false&layout=compact)
