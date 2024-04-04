@@ -16,6 +16,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-%1107405e.svg?style=for-the-badge&logo=swift&logoColor=white)
 
 </br>
 
@@ -30,3 +31,4 @@
 
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![XCode](https://img.shields.io/badge/xcode-6C3B19.svg?style=for-the-badge&logo=xcode&logoColor=white)
